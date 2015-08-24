@@ -1,5 +1,5 @@
 ----- EDITABLE VARIABLES. Only edit the below.
-streamid = "darkgoldblade01" --- the beam.pro username
+streamid = "darkgoldblade01" --- the twitch.tv username
 SleepTime = 60 --- how often do you want to refresh in seconds? (default - 60)
 direction = "right" --- this is the direction the monitors are
 --- This next area is for deciding what you want on each line. The options are: followerCount, viewerCount, and currentGame
