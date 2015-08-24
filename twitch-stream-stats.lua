@@ -1,4 +1,4 @@
-streamid = "Bacon_Donut"
+streamid = "darkgoldblade01"
 SleepTime = 60
 os.loadAPI("json")
 local m = peripheral.wrap("right")
