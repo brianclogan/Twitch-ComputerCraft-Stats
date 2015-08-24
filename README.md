@@ -23,7 +23,7 @@ Now, type `edit twitch` and you will see the config at the top of the script. Th
 
 
 ## Configuration ##
-When you go and edit the beampro file, you will see this at the top:
+When you go and edit the twitch file, you will see this at the top:
 
 ```
 ----- EDITABLE VARIABLES. Only edit the below.
