@@ -18,9 +18,9 @@ str = http.get("https://api.twitch.tv/kraken/streams/" .. streamid).readAll()
 obj = json.decode(str)
 -- Function to get follower counts
 function getFollowers(line)
-        followers = json.encodePretty(obje.stream.followers)
+        followers = json.encodePretty(obj.stream.channel.followers)
         m.setCursorPos(1,line)
-        m.write("Beam Pro Followers: ")
+        m.write("Twitch Followers: ")
         m.write(followers)
 end
 -- function to get current viewer count
