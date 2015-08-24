@@ -13,7 +13,7 @@ Open up the computer console. You should see CraftOS in the upper left corner. O
 
 ![json api pastebin](https://github.com/darkgoldblade01/Twitch-ComputerCraft-Stats/blob/master/images/json-api-pastebin.png)
 
-That saves the JSON api that is required to use the APIs for Twitch. Next is saving the Beam API script.
+That saves the JSON API that is required to use the APIs for Twitch. Next is saving the Twitch API script.
 
 `pastebin get RxR4T9Sz twitch`
 
